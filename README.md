@@ -7,5 +7,4 @@ I concluded that the following factors in the data were driving home prices:
   3. Year Remodeled
   4. Year Built
   5. Total Rooms
-This project was done in Excel and presented with PowerPoint.
-https://docs.google.com/presentation/d/1_n-95Y8oXxWXWVeLkAgeQXV5AwW_jyOK/edit?usp=sharing&ouid=116171400978382865775&rtpof=true&sd=true
+This project was done in Excel and presented with PowerPoint, and can be found [here](https://docs.google.com/presentation/d/1_n-95Y8oXxWXWVeLkAgeQXV5AwW_jyOK/edit?usp=sharing&ouid=116171400978382865775&rtpof=true&sd=true).
